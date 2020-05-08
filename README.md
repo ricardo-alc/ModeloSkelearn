@@ -1,0 +1,2 @@
+# ModeloSkelearn
+Modelo matemático lineal
